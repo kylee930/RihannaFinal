@@ -118,7 +118,7 @@ body, html {
 	box-sizing: border-box;
 	border-right:100px solid white;
 	border-bottom: 330px solid transparent;
-	background-image: url("images/Robyn.jpg");
+	background-image: url("Robyn.jpg");
 	background-size: 600px;
 }
 #section2 {
@@ -145,7 +145,7 @@ body, html {
 	box-sizing: border-box;
 	border-left:100px solid white;
 	border-bottom: 330px solid transparent;
-	background-image: url("images/robyn3.jpg");
+	background-image: url("robyn3.jpg");
 	background-size: 670px;
 	background-position: bottom;
 }
@@ -173,7 +173,7 @@ body, html {
 	box-sizing: border-box;
 	border-right:100px solid white;
 	border-bottom: 330px solid transparent;
-	background-image: url("images/Robyn2.png");
+	background-image: url("Robyn2.png");
 	background-size: 600px;
 }
 main {
@@ -186,7 +186,7 @@ h2 {
 	text-align-last: center;
 }
 body {
-	background-image:url("images/RihBkgrd2.png");
+	background-image:url("RihBkgrd2.png");
 	background-attachment: fixed;
 	background-size: cover;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
